@@ -113,6 +113,7 @@ module.exports = {
         type: '_dbcs',
         table: function() { return require('./tables/cp949.json') },
     },
+    'ms949': 'cp949',
 
     'cseuckr': 'cp949',
     'csksc56011987': 'cp949',
